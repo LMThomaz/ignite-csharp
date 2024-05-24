@@ -1,4 +1,4 @@
-﻿using HelloWorld.Aulas;
+﻿using HelloWorld.Aulas.TiposDeDados;
 
 namespace HelloWorld;
 

@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace HelloWorld.Aulas;
+namespace HelloWorld.Aulas.TiposDeDados;
 
 public class Textos
 {

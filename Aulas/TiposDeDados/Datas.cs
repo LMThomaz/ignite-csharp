@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace HelloWorld.Aulas;
+namespace HelloWorld.Aulas.TiposDeDados;
 
 public class Datas
 {

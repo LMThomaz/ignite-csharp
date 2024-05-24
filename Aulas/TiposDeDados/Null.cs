@@ -1,4 +1,4 @@
-namespace HelloWorld.Aulas;
+namespace HelloWorld.Aulas.TiposDeDados;
 
 public class Null
 {
